@@ -2,8 +2,8 @@ import React from "react";
 
 const WelcomePage = () => {
   return (
-    <section className="">
-      <div className="h-screen flex flex-col items-center justify-center">
+    <section className=" bg-gradient-to-b from-gray-100 to-gray-400 ">
+      <div className="h-screen  flex flex-col items-center justify-center">
         <h1 className="text-blue-950 text-6xl font-bold ">
           Welcome to Ecomdrive
         </h1>
